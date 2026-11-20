@@ -35,3 +35,4 @@ Probably this will work with the most browsers, but here is a list which browser
 ## ✌️ Credits
 - [Materialize](https://materializecss.com/)
 - [ml5js](https://ml5js.org/)
+# collage-mini-project
